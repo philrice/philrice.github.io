@@ -1,0 +1,2 @@
+--- test triple ---
+*** test stars ***
