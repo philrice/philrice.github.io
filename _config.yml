@@ -27,9 +27,15 @@ twitter_username: technotescloud
 github_username:  philrice
 
 # Build settings
-theme: minima
+remote_theme: sighingnow/jekyll-gitbook
 plugins:
   - jekyll-feed
+
+syntax_highlighter_style: colorful
+toc:
+    enabled: true
+    h_min: 1
+    h_max: 3
 
 # Exclude from processing.
 # The following items will not be processed, by default.
