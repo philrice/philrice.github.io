@@ -8,7 +8,7 @@ This is a first test post to test out the formating and capabilites of jekyll an
 
 ```this should highlight```
 
-this shoudl be a code block
+this should be a code block
 {% highlight bicep %}
 @description('Common use of setting location to be same as Resource Group')
 param location string = resourceGroup().location
